@@ -4,4 +4,5 @@ This project was my introduction to programming, and so I wanted to have a perma
 
 The task of Phys281 was to model a physical system, in this case the Solar System, and analyse the effectiveness of the simulation. 
 V1, 2 and 3, are different iterations of the code as it improved - my version of version control before I had an idea about git! 
-It's messy and it's far from efficient, but it was my first foray into this world, 
+
+It's messy and it's far from efficient, but it was my first foray into this world.
